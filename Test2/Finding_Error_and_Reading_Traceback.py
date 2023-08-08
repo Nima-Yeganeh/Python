@@ -1,0 +1,2 @@
+mySuperMegaMesage = "Hello!"
+print(mySuperMegaMesage)
