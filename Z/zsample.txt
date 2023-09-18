@@ -1,0 +1,1537 @@
+What is your name?
+My name is Nima.
+How are you?
+I'm speaking French.
+Do you speak English?
+I speak
+You speak
+He speaks
+She speaks
+He is eating an orange.
+You like to read.
+Do you like to read?
+I'm speaking English.
+I work in Paris.
+Do you speak French?
+She is working.
+I study
+You study
+He studies
+She studies
+You study with Duo.
+I like
+You like
+I live in Paris.
+I like France.
+We live in Paris.
+They live here.
+We live
+They live
+They are eating the croissants.
+They like the chocolate.
+We like the chocolate.
+We eat
+You all eat
+They eat
+We like reading
+We like to read
+They eat a pizza.
+We eat a pizza.
+They are working.
+We live in Montreal.
+They are studing French.
+We like
+You all like
+They like
+They are eating the croissants.
+They study
+I am a student.
+She is my friend.
+The sun is hot.
+I like pizza.
+He has a cat.
+They go to school.
+We eat breakfast.
+It is raining.
+You can swim.
+I love my family.
+The dog is brown.
+She plays the piano.
+We have a book.
+They live in a house.
+He rides a bike.
+I see a bird.
+She sings a song.
+It's a beautiful day.
+You drink water.
+I read a story.
+Hello
+Hi there!
+How are you?
+What's your name?
+My name is Nima.
+Nice to meet you.
+How's it going?
+I'm good, thanks.
+I'm not feeling well.
+Where are you from?
+I'm from France.
+Thank you.
+Thanks a lot.
+You're welcome.
+Please.
+Excuse me.
+I'm sorry.
+Yes.
+No.
+I don't know.
+I don't understand.
+Can you help me?
+What's this?
+How much does it cost?
+Where is the nearest train station?
+I like it a lot.
+I don't like that.
+I love it.
+I hate it.
+Good morning.
+Good afternoon.
+Good evening.
+Good night.
+Have a nice day.
+See you later.
+See you tomorrow.
+What time is it?
+Can you speak English?
+Can you repeat that, please?
+Can you spell it for me?
+I need help.
+Where's the bathroom?
+What's your phone number?
+How old are you?
+Where do you work?
+What do you do for a living?
+I'm a student.
+I'm a teacher.
+I'm a computer engineer.
+I am a boy.
+She is my friend.
+The sun is hot.
+I like ice cream.
+He runs fast.
+Cats say "meow."
+Dogs bark loudly.
+We eat food.
+Birds can fly.
+The sky is blue.
+I see a red ball.
+The cat is on the chair.
+He has a big smile.
+She jumps high.
+We go to school.
+It is a sunny day.
+They play with toys.
+The moon is bright.
+I like to draw.
+We read a book.
+I have a blue car.
+She eats an apple.
+The dog barks loudly.
+He sleeps at night.
+Birds fly in the sky.
+We drink water.
+The flower is pretty.
+They dance together.
+I see a rainbow.
+The sun sets.
+The cat is black.
+He likes to run.
+She wears a hat.
+We play outside.
+I hear music.
+The baby smiles.
+They read a story.
+It's a rainy day.
+I see a big tree.
+The fish swim.
+The sun is hot.
+I love my mom.
+We eat dinner.
+She has a doll.
+He jumps high.
+Cats sleep a lot.
+Dogs chase balls.
+We go to bed.
+Birds sing songs.
+The sky is clear.
+I see a big tree.
+She wears a red dress.
+He has a yellow ball.
+We eat pizza for lunch.
+The dog runs fast.
+Birds fly in the sky.
+They play with toys.
+The moon is out.
+I like to draw pictures.
+The sun rises in the morning.
+Hi, how are you?
+What's your name?
+Nice to meet you.
+How's the weather today?
+I like your shirt.
+What do you do for work?
+Where are you from?
+Do you have any hobbies?
+Can you help me, please?
+Thanks for your help.
+What's your favorite food?
+I'm going to the store.
+How was your weekend?
+Let's go for a walk.
+It's a beautiful day.
+What time is it?
+How do you like this place?
+I enjoy reading books.
+Have you been on vacation recently?
+Can I have a glass of water, please?
+I'm going to the movies tonight.
+Did you watch the game last night?
+How's your family doing?
+I need to buy some groceries.
+Let's have lunch together.
+What's your favorite movie?
+I'm feeling tired today.
+What's your favorite color?
+Tell me about your pets.
+It's a pleasure talking to you.
+I like to eat apples.
+She is my friend.
+Can you help me?
+I want to learn English.
+The cat is on the table.
+What time is it?
+My favorite color is blue.
+I go to school every day.
+This is a pen.
+He is playing soccer.
+She has a big smile.
+We read books for fun.
+They are happy.
+I can swim.
+I have a red car.
+The sun is shining.
+It's a rainy day.
+I like ice cream.
+She can sing beautifully.
+They ride bicycles.
+My family is big.
+This is my house.
+He has a green shirt.
+We watch movies together.
+I need to eat breakfast.
+Birds can fly.
+The dog barks loudly.
+We go to the park.
+The moon is in the sky.
+I see a rainbow.
+She wears glasses.
+He plays the guitar.
+I like to draw pictures.
+We go to bed at night.
+I can write my name.
+She has a pretty dress.
+We eat lunch at noon.
+He reads a book quietly.
+They are good friends.
+It's a hot summer day.
+I see a butterfly.
+We take the bus to school.
+The flowers smell nice.
+He likes to play games.
+I want a glass of milk.
+She brushes her teeth.
+We have a cat and a dog.
+The baby is sleeping.
+I can count to twenty.
+She dances gracefully.
+We plant flowers in the garden.
+He has a new toy.
+They go for a walk.
+I love my family.
+The sun rises in the morning.
+I like to watch cartoons.
+She has a big smile.
+We play in the park.
+They go to the beach.
+I can ride a bike.
+He likes to swim.
+She wears a yellow hat.
+We eat dinner together.
+I have a little brother.
+It's a rainy day today.
+He sings a happy song.
+They visit their grandparents.
+I learn new words every day.
+She helps her mom.
+We go to the zoo.
+The cat chases a mouse.
+He catches a ball.
+I see a colorful rainbow.
+She reads a bedtime story.
+We have a picnic in the park.
+He loves to play with toys.
+She draws pictures of animals.
+I can ride the bus to school.
+They make delicious cookies.
+It's a snowy winter day.
+I watch birds in the sky.
+She has a shiny necklace.
+We plant seeds in the garden.
+He climbs trees in the forest.
+They build sandcastles at the beach.
+I ride my bike in the evening.
+She feeds her pet fish.
+We take photos of our family.
+He practices playing the piano.
+I enjoy running in the park.
+They bake a chocolate cake.
+It's a quiet, peaceful night.
+She hugs her teddy bear.
+We say "goodnight" to the stars.
+Hi, how are you?
+What's your name?
+Nice to meet you.
+How's your day going?
+Can you help me, please?
+Thanks for your help.
+Where are you from?
+What do you do for work?
+I like your outfit.
+What's your favorite movie?
+How's the weather today?
+I'm hungry. Let's eat.
+Do you have any plans this weekend?
+What time is it?
+I'm sorry, I don't understand.
+It's a beautiful day, isn't it?
+I had a great time.
+Let's go for a walk.
+What's your favorite food?
+See you later!
+How's your family doing?
+What did you do yesterday?
+I love spending time outdoors.
+Can you recommend a good book?
+Let's grab a coffee sometime.
+What's your favorite hobby?
+I'm looking forward to the weekend.
+That sounds interesting!
+How long have you lived here?
+What's your favorite color?
+Do you like to travel?
+I enjoy listening to music.
+What's your dream job?
+Can you pass the salt, please?
+Tell me about your pets.
+Have you been on any trips recently?
+What's your favorite season?
+I need a break.
+Let's make plans for next week.
+It's nice to see you again.
+How's your day been so far?
+I'm feeling a bit tired today.
+What's your favorite type of music?
+Let's go out for dinner tonight.
+Have you tried this restaurant before?
+What's your favorite place to visit?
+I enjoy watching sports on TV.
+Do you have any upcoming plans?
+Let's go shopping together.
+How's your work/school going?
+I'm a fan of classic movies.
+Tell me about your favorite childhood memory.
+What do you like to do in your free time?
+How do you stay active?
+I love the smell of fresh flowers.
+What's your favorite dessert?
+I'm not a morning person.
+Let's meet up for a chat.
+What's the best book you've ever read?
+I appreciate your help.
+What's your favorite holiday?
+I enjoy taking long walks.
+Do you have any siblings?
+Let's make plans for the weekend.
+How do you like to relax?
+I'm a fan of art museums.
+What's your favorite animal?
+Can you recommend a good movie?
+I love spending time at the beach.
+Let's have a picnic in the park.
+How's your health these days?
+Do you have any goals for this year?
+What's your favorite restaurant in town?
+I need some advice, can you help?
+Let's explore the city together.
+Have you ever traveled abroad?
+What's your favorite TV show?
+I enjoy trying new foods.
+Let's go for a bike ride.
+What's the best piece of advice you've received?
+How do you like to spend your weekends?
+I'm a fan of outdoor activities.
+Do you have any interesting hobbies?
+Let's go for a hike in the mountains.
+Have you ever been to a concert?
+What's your favorite type of cuisine?
+I enjoy watching the sunset.
+What's the last movie you watched?
+Let's plan a day trip together.
+How's your day shaping up?
+Do you have any favorite quotes?
+I like to take photos of nature.
+What's your preferred mode of travel?
+Let's talk about your dream vacation.
+I'm trying to eat healthier these days.
+What's your go-to comfort food?
+Let's catch up over a cup of coffee.
+How do you handle stress?
+Do you have any upcoming events?
+I appreciate your friendship.
+How's your family doing these days?
+What's your favorite outdoor activity?
+Let's go for a leisurely stroll.
+Have you visited any interesting places lately?
+What's the most memorable trip you've been on?
+I'm a fan of classic literature.
+Do you enjoy cooking or baking?
+Let's plan a movie night.
+What's your favorite season of the year?
+I love spending time in nature.
+How do you like to stay active?
+Let's share our favorite childhood stories.
+Have you ever attended a live performance?
+What's your favorite board game?
+Let's explore a new hobby together.
+How's your work/school project coming along?
+Do you have any favorite childhood games?
+What's the best piece of advice you've ever received?
+Let's brainstorm some creative ideas.
+I value our friendship.
+Where is the nearest bus stop?
+Can you recommend a good restaurant?
+How much does a ticket cost?
+Is there a map of the city?
+What time does the museum open?
+I'd like to book a hotel room, please.
+How far is it to the city center?
+May I have the check, please?
+Where can I find a taxi?
+What's the best way to get to the airport?
+Can you take a picture of us?
+Do you have a menu in English?
+How do I get to the train station?
+What's the weather forecast for today?
+Are there any guided tours available?
+What are some popular tourist attractions here?
+Do you speak English?
+I need a map of the subway system.
+Is there a restroom nearby?
+Can you help me with directions?
+Are there any local markets to visit?
+What's the best way to get to the beach?
+Can you recommend a good place for shopping?
+Is there a tourist information center here?
+Do you accept credit cards?
+How much is the entrance fee?
+Can I try this on?
+What's the signature dish of this region?
+I'd like to see the historic landmarks.
+Are there any discounts for students/seniors?
+What's the schedule for the guided tours?
+Where can I rent a bicycle?
+Is there a Wi-Fi hotspot nearby?
+Do you have a city pass for attractions?
+How do I get to the famous [landmark]?
+What's the local currency?
+Can you recommend a good local guide?
+Is it safe to walk around here at night?
+What time does the last bus/train leave?
+I'm lost; can you help me find my hotel?
+Good morning, everyone.
+I need your input on this project.
+Can you please send me the report?
+Let's schedule a meeting for next week.
+What's the deadline for this task?
+Thank you for your hard work.
+I have a question about the presentation.
+Let's discuss our goals for this quarter.
+Please update me on your progress.
+We need to make a decision soon.
+I'll send you the meeting agenda.
+Can you prepare a brief summary?
+I appreciate your cooperation.
+Let's brainstorm some ideas.
+What's your opinion on this matter?
+I'll take care of the paperwork.
+We need to address this issue.
+Hi. Are you doing well? How is your brother? And your sister? Is she fine?
+Paul is talking with his sister.
+Your father and your mother
+My mother has a car.
+I like my family very much.
+Hi. Are you doing well?
+My family lives in France.
+Paul and his sister are living here.
+Your sister lives in England.
+My family. Your family. His family. Her family. Our Family. The family.
+Marc lives with his mother and sister.
+And you? Are you doing well?
+Yes. She is my daughter. I like her a lot.
+I am OK. Thanks. How are you? What are you doing?
+My husband speaks English and he is a computer engineer.
+My girl is French. But my son is American.
+My son lives in France and my girl lives in Spain.
+He is Louis's son.
+This is your father. His name is Luis. He is a journalist in Berlin.
+I'm doing very well, and you, are you OK?
+He is Julia's husband. He is very kind.
+My husband is American and I'm French.
+Is your wife doing well? How is she?
+This is Marc's daughter. She is very beautiful.
+My son wants a pet.
+My grandmother is here and my grandfather is not here.
+Alice wants an owl.
+My grandfather has a car. My grandmother wants a plane.
+I am leaving here. Goodbye.
+No. His grandfather's name is Thomas and his grandmother's name is Elsa.
+Alice wants an owl but I have a pet.
+Where does your grandmother live? And where do you live now?
+Thomas is my grandfather and he lives in France. He has a car and we go to university together.
+Paul wants a pet. He likes animals a alot.
+I have a grandfather and he lives with us in Paris.
+This is my pet. Do you like it? Is it beautiful or not?
+I live in an apartment with my dog. My apartment is small.
+Your apartment is not small. I live in a small house in Paris.
+Is Alice's dog in the house?
+Elsa's cat is in the garden. Elsa wants her cat. She goes to your garden getting her cat.
+I have a suitcase and a passport. I am going to the airport to go to France.
+I am in the house. Where are you? Why are you not here?
+The pets are in the apartment. Don't you see them?
+Your dog is playing in the garden. I'm sure your dog is in the garden.
+Elsa's father is here. Come here to see him.
+You have a house in France. I like to have one in Paris.
+I am in the garden. The pets are here too.
+Hi! How are you doing today?
+Is your brother doing well?
+Your sister is fine, isn't she?
+Paul is talking with his father.
+My mother has a car, and I like it.
+Our family lives in France, and we love it there.
+Marc's girl is French, but his son is American.
+Louis's name is known as a journalist in Berlin.
+I'm Julia's husband, and I try to be kind.
+No, Thomas and Elsa don't have a pet.
+Does your dog like playing in the garden?
+We're going to the airport together.
+Hi!
+You are doing well.
+How is your brother?
+And your sister?
+She is fine.
+Paul is talking with his father.
+His mother has a car.
+I like my family very much.
+Our family lives in France.
+And we are living here.
+Her family is in Spain.
+Marc's mother is French.
+Are you? Yes, she is my daughter.
+I like her a lot.
+I am OK; thanks.
+What are you doing?
+My husband speaks English; he is a computer engineer.
+His son is American.
+Louis's name is known; he is a journalist in Berlin.
+I'm doing very well; how about you?
+Julia's husband is very kind.
+My husband is American, and I'm French.
+Is your wife doing well? How is she?
+Marc's daughter wants a pet.
+My grandmother and grandfather are not here.
+Alice wants an owl or a plane.
+I am leaving; goodbye.
+No, Thomas and Elsa don't want to leave.
+Where does your grandmother live?
+And where do you live now?
+Thomas is my grandfather; he lives in France.
+He has a car, and we go to university together.
+Paul wants a pet; he likes animals a lot.
+I have a pet; do you like it?
+It is beautiful or not.
+I live in a small house in Paris.
+Is Alice's dog in the house?
+Elsa's cat is in the garden.
+She goes to your garden, getting her cat.
+I have a suitcase and a passport.
+I am going to the airport to go to France.
+I am in the garden.
+The pets are here too.
+Hi, it's good to see you.
+You're doing well today.
+How's your brother feeling?
+And what about your sister? Is she fine?
+Paul is talking with his father right now.
+My mother has a car, and I like it.
+I really like my family; they mean a lot to me.
+Our family lives in France, and we're happy there.
+Marc's mother is kind, just like him.
+My husband speaks English fluently; he's a computer engineer.
+Our son is American, but our daughter is French.
+Louis's name is known in the journalism field.
+Julia's husband is a great guy; he's very kind.
+My husband is American, and I'm proud to be French.
+How's Marc's daughter? She's very beautiful.
+My son wants a pet, maybe a dog or a cat.
+My grandmother is here, but my grandfather is not.
+Alice wants an owl as a pet.
+My grandfather has a car, but my grandmother wants a plane.
+I'm leaving here soon. Goodbye!
+Thomas is my grandfather's name, and Elsa is my grandmother's name.
+Alice wants an owl, but I already have a pet.
+Where does your grandmother live, and where do you live now?
+Thomas is my grandfather, and he lives in France.
+He has a car, and we often go to university together.
+Paul wants a pet because he likes animals a lot.
+I have a grandfather, and he lives with us in Paris.
+This is my pet; do you think it's beautiful?
+I live in an apartment with my dog. My apartment is small.
+Your apartment is not small at all; it's cozy.
+Is Alice's dog in the house right now?
+Elsa's cat is in the garden, and Elsa wants to get her cat back.
+I have a suitcase and a passport. I'm going to the airport to go to France.
+I'm currently in the house. Where are you? Why are you not here?
+The pets are in the apartment. Don't you see them?
+Your dog is playing in the garden, and I'm sure your dog is having a great time.
+Elsa's father is here; come here to see him.
+You have a house in France, and I'd like to have one in Paris too.
+I am in the garden, and the pets are here too, enjoying the outdoors.
+I live in an apartment with my dog and cat.
+I am here in the house.
+Elsa's father and mother are very kind.
+I have an apartment and a house in Paris.
+You have a house with garden in France.
+I am here with Emile's mother.
+Your cat is in my garden. Are you looking for your cat?
+My wife's name is Alice and I am Jack.
+I am in the house. I am not in the garden.
+A house with a garden.
+I live in Rome with my family.
+My sister is artist, my father is professor, and my mother works in university too. And you?
+I am going to the train station.
+Oscar takes a taxi.
+His friend, Lin, is the taxi driver.
+Are you a taxi driver?
+Yes, this is my job now. I am a taxi driver.
+Where are you going now?
+Where is the train station?
+I don't know. Do you know?
+I drive the taxi and you talk to me.
+Here you are. This is the train station.
+It's here. I found it.
+We are at the hospital.
+I don't want to drive the taxi.
+This is a difficult job.
+Open the door please.
+I am going to Berlin. Where are you going?
+We are going to the train station. Goodbye Pierre.
+I'm going to Paris. Have a good trip.
+It is a Mexican restaurant.
+The Mexican boy and the American girl.
+Now we are here. It's a French restaurant.
+The American woman is here.
+It is a French train station. It is old. It is not new.
+It's a hotel. We are at the hotel.
+It is a French plane. It's new.
+Are you going to airport or train station?
+You are going to the hotel. Don't you?
+Are you going to the hotel? I am going to the train station.
+Hello. Welcome to the airport.
+The train is going to the train station.
+I am taking the car.
+I'm going to Paris by car.
+He's going to the airport.
+I'm going to France by train.
+I'm taking the plane.
+He's going to Paris by train and I'm going to Paris by car.
+Marie is going to the airport by car.
+I'm taking the car.
+I'm going to Bordeaux by train.
+I am taking the train. What about you?
+I have a suitcase. It's mine.
+Are you taking the train or not?
+Yes please. I like it.
+Are you taking the car? Are you sure?
+Where is the train station?
+Where is the train station around here?
+Where are you going now?
+I'm going to the train station by taxi.
+Where is the restaurant please?
+Is there a restaurant around here?
+She is going to the hotel. Where are you going?
+Are you taking a suitcase? It's heavy.
+I go to the train station by taxi. He goes to the train station by train.
+I have a suitcase and a book. And you?
+I have a car. Mr. Jackson has a plane.
+You have the plane ticket and passport and suitcase.
+Do you have your passport?
+I have my plane ticket.
+I have the American passport.
+Do you have a suitcase? I have not a suitcase.
+She has a suitcase. He has a passport.
+Do you have your plane ticket?
+Yes I'm going to the airport now.
+Are you going to the train station or airport?
+Where is Duo? Where is he? Where is she?
+Marie is going to Paris. She is going to her house.
+The man is eating the orange. He is eating the orange.
+Do you have a plane? Because I have not a plane.
+I am going to the airport. I'm going to France. I'm going to my apartment.
+I'm taking the train and the plane.
+I'm in your apartment.
+Is your cat doing well?
+I have a car and you have an apartment.
+I am going to Paris by car. You are going to Paris by train. They are going to Paris by plane.
+My family is here. They are here. They are in my apartment.
+The man is eating the orange. The woman is eating the apple.
+The house is big. My apartment is small.
+Marie has an owl. I have an owl. You have an owl.
+My son wants a dog. My girl wants a cat.
+I'm in the garden. My mom is here. My father is not here.
+Where is the restaurant please? I cannot find it.
+I like to go to Paris by train.
+My grandfather has a car. My grandmother wants a plane. I like to have a train.
+Helene's dog is in the garden. The dog is playing with me.
+I'm going to Bordeaux tomorrow.
+Your sister's name is Julia. I like her. She is beautiful.
+My grandmother lives in Paris. My father lives in New York. I live in Spain.
+I am taking the train and the plane. What about you?
+It's Junior and his father Eddy.
+You're going to New York. I'm going to Paris with my sister.
+My girl is French. My son is American. My Wife is French. My mother is American.
+You're going to the hotel and I'm going to my apartment in Paris.
+Marc's wife is kind. She is very beautiful.
+It is a suitcase. It's mine. I'm going to the airport. I'm going to vacation.
+Do you have a suitcase? I have a passport and a plane ticket.
+Marie has a brother. I have a sister. Do you have a sister?
+The passport is here. I cannot find the ticket.
+Hello sir. I'm going to the airport. Thanks a lot.
+Alice's cat is cute. She is playing in the garden.
+I'm taking the train and the plane. Are you taking the car?
+I'm going to Paris by train. Are you going to Paris by plane?
+There is a hotel here. The hotel is big.
+Your mom is French. My mom is American.
+It is a taxi with taxi driver in it.
+The vegetarian
+Vikram is at the restaurant.
+Welcome to our restaurant.
+Hello. I have a question.
+I am a vegetarian.
+Are there vegetarian dishes?
+Yes. We have some steaks.
+It's meat. I don't eat meat.
+Ah. Yes. Sorry.
+The pork is delicious.
+The pork, it's meat.
+I don't meat. I don't like meat. I'm vegetarian.
+We have some salads.
+I like the salads a lot.
+We have a salad with some tomato and some fish.
+I don't eat fish. am vegetarian.
+We have some bread and some cheese.
+It's OK. I eat some bread and cheese.
+Very well. And some ham with the bread?
+We have very delicious foods here.
+I like to eat ham. What do you like to eat?
+Welcome to the best restaurant in Paris.
+I don't like to eat meat. Do you like to eat meat?
+There are some foods here.
+We are eating the foods.
+I'm with Alice and we are eating very much.
+We eat well.
+We are eating in a restaurant.
+We have a cat and a dog in our apartment.
+We want a taxi. We are going to the airport.
+We have a car. But we want a taxi.
+We want a pizza and hamburger.
+We live in Paris. We want to go to Spain.
+We live in Berlin. We work in this city.
+We want a car. And also we want an apartment.
+We want a cat and a dog. We want a big house in Paris.
+The chocolate is delicious.
+He eats the chocolate. She eats the chocolate.
+The music is playing. I am listening to the music.
+The book is here. I'm reading the book.
+I like Paris and I like New York. Where do you like?
+I like to read. I like reading a lot.
+I like to read. And you? Do you like reading books?
+We like Duo. We love Duo very much.
+She reads a lot of books. Because she like reading very much.
+He is an man. He is very handsome. I like him.
+We like to read. I like to read books.
+The bank is around here.
+Are you going to the bank?
+The school is not close to us.
+I'm going to school.
+We are here. Where are you now?
+We are French and We live in Paris.
+We are at the bank. You are at school.
+I want to go to school.
+I want a book. I like to read.
+We are going to Paris together.
+We are going to the airport to go to France.
+We are going to school. We are students.
+The bakery is here.
+This is a bakery.
+The name of the bakery is the french baguette.
+I'm in the park.
+Where is the subway?
+I'm taking the subway.
+I'm going to the work.
+I'm taking the subway going to the work.
+Are you taking the subway? Are you going to the work?
+We are going to the restaurant.
+We are in the zoo.
+I like the zoo. And I like animals.
+The bus isn't here.
+It's a movie theater.
+We are going to the cinema by bus.
+Do you like to read?
+Do you like French?
+Do you want a cat? Or do you want a dog?
+Do you want an orange? Do you want an apple?
+Do you want a croissant? Are you hungary?
+Do you like school?
+Are you going to school?
+I'm going to work by subway. I don't go to work by car.
+I like the zoo. I go to zoo with my wife.
+I'm going to school by car. I'm not going to school by subway.
+We are going to the work by bus. We are not going to the work by car.
+She has a book. He has a book too.
+I want to read a book. You dont' want to read.
+I study at school.
+I want more space.
+Junior's friend is talking to his father.
+I have to work dad.
+You are eight years old.
+You do not have to work.
+We need money.
+Why? Why we need money?
+To buy a new house. We need money for a new house.
+Our house is small.
+We need a big house.
+We need a car.
+Our car is small.
+We need more place. We need a house and a car.
+The family needs a bigger space.
+For the baby.
+Yes mom's baby.
+Dad are you OK?
+We need a new car.
+And a new house. We need a new house too.
+His mother is having a baby.
+It's a French airport. It's very old.
+The American woman is coming.
+I am taking the train with Paul. And Paul has a suitcase.
+My cat is talking to your dog.
+I have a pet. I want more animals in my house.
+Where is the hotel? I can't see it.
+You study with Duo. I study with myself.
+We eat. You eat. They eat.
+We'll eat. You'll eat. They'll eat.
+I am. You are.
+We like to read. You like to read. They like to read.
+They eat a pizza.
+I work in Paris. We work in Paris. They work in Paris.
+Do you have a passport?
+I speak. You speak. They speak.
+He's going to the train station. She's going to the train station.
+I'm going to the train station. You're going to the train station.
+I eat. You eat. He eat. She eat. They eat.
+I'm going. You're going. They're going.
+I speak. You speak. He speaks. She speaks. They speak.
+I study. You study. He studies. She studies. They study.
+Are you going to Paris? Yes. I'm going to Paris.
+They are professors.
+I have. You have. He has. She has. They have.
+I speak. You speak. He speaks. She speaks. They speak.
+We are. They are.
+They have two cats. We have two dogs.
+We are going. You are going. They are going.
+I'm speaking French. You're speaking Spanish. They're speaking English.
+You have a car?
+They speak French. They don't speak English.
+My family lives in a house.
+I work. We work. They work.
+She has a passport. He has a passport. I have not a passport.
+We are working in Montreal.
+They study the French.
+We like. You like. They like.
+Do you live here?
+You live here?
+I am a man. You are a woman. They are kids.
+I'm going to New York. You're going to Paris. They're going to Berlin.
+We are living. You are living. They are living.
+We like the chocolate. You don't like the chocolate.
+He lives. She lives. They live.
+It is a car. I like this car.
+I am. You are. He is. She is.
+You Paul? Are you Paul?
+We like music. We love music.
+They have two cars. We have one car.
+She is going to the hotel. She is going alone.
+The cats are eating.
+We are kind. You are beautiful. They are handsome.
+I'm eating the oranges.
+We are at school. They are at home.
+We are English. You are American. They are French.
+We have a car. You have two cars. They have many cars.
+I like France. You like America. They like England.
+We are going to the bank. You are going to the bank. They are going to the bank.
+My family lives in a house. But I live in an apartment.
+I am kind. You are nice.
+He's going to the train station. But she's not going to the train station.
+I like it. We like it.
+They speak French and English.
+She is French. He is not French.
+Clothes for my vacation.
+Lucie is in a store.
+I would like clothes for my vacation.
+Hello. I would like some clothes for my vacation.
+Lucie is shopping for clothes for a vacation.
+Yes. That's right.
+No. That's wrong.
+I would like a pair of shorts.
+Lily takes a pair of red shorts.
+No. I would like a pair of green shorts.
+Lily takes a pair of green shorts for her.
+And I would like some boots.
+Lily takes some green boots.
+No. Some white boots.
+And a jacket please.
+No. An orange jacket.
+Perfect. I can go on vacation.
+And me, I want a vacation.
+She's tired.
+She's helping Lucie.
+Lily is helping Lucie find clothes.
+She's tired after helping Lucie find clothes.
+You're going to the park. I'm going to the store.
+The movie theater is closed.
+We want to read a book. What about you? What do you want to read?
+We have a dog. His name is Hugo. We are eating a pizza. Hugo is eating the pizza with us.
+You are going to the work by bus? Are you going to the work by bus?
+We are at the bank. The bank is open.
+I'm studying music. I like music a lot.
+You like to read? Do you like to read?
+Are you going to school? You go to school?
+I'm going to the zoo. But I don't like the zoo.
+We are at the bakery. We want some bread.
+We want a car. I don't want a car.
+You want an orange?
+We are going to the movie.
+I go to work by subway.
+Hello, Julia. It's your father?
+Yes. It's my father. He is a journalist.
+It's Junior and her father Eddy.
+My father is French. He is in France.
+Your father's  American. He's in the USA.
+My brother is doing well. Thank you.
+My sister and my brother
+You're doing very well.
+Paul has a sister. What's his sister's name?
+His brother and his sister.
+Hi. Are you doing well?
+Your father and your mother.
+My family lives in French.
+The girl is with her mother.
+Your mother's French.
+Your sister speaks French.
+Your husband works in a restaurant.
+He lives with his wife and his son.
+I live with my son and my girl.
+Julia's husband is Mexican.
+Marc's sister
+I have a pet.
+Duo is an owl. An owl.
+His pet is a dog.
+It's his pet?
+Thomas is my grandfather.
+His grandmother is Mexican. Hers grandmother is Mexican.
+My son wants a dog.
+Paul wants a pet.
+Where does your grandmother live?
+Marie has an owl.
+My son wants a cat.
+I live in a house in Chicago.
+A house with a garden
+Sarah's car and Alice's car
+Where does your grandmother live?
+I'm from Paris.
+You're doing very well.
+The reservation
+Bea and Lin are in a restaurant.
+It's lovely here.
+Happy birthday Bea.
+Good evening. I have a reservation for two.
+Yes, your name?
+Yes, what's your name?
+Your table is here.
+It's very expensive.
+The food costs a lot of money.
+You want to eat what?
+Twenty euros for a salad?
+I'd like a good one.
+Glass of water
+Me, I want a salad.
+And a pizza and a beer.
+In a cheap restaurant.
+It's an important day.
+Yes, but the restaurant is not important.
+Very well. I'm very hungry.
+One or Two
+Two or Three
+Three girls and two sons
+She has three cats.
+I eat a lot.
+I eat a burger.
+I'm eating two croissants.
+The cats.
+The women and the boys.
+They are here. I am here too.
+The girls are here and the boys are in England.
+Where are the girls?
+They are at the restaurant.
+They are eating the oranges?
+They're working.
+Where are the boys?
+They're speaking with the girls.
+They're are studying.
+The professors are French.
+They're working at the university.
+They live in Paris.
+The boys are students.
+The women are students.
+They have a cat.
+I have two trains.
+They have a horse.
+The journalists works at the radio station.
+He has three cars.
+Three cars! It's a lot.
+The girls are in Spain.
+The men are students.
+They're eating two pizzas.
+The students are studying.
+Eddy and Junior are eating in a park.
+Dogs aren't easy.
+Dogs need to walk a lot.
+I like to walk.
+Dogs need to play a lot.
+I like to play.
+And dog food is expensive.
+The dog can eat my food.
+Where is your sandwich?
+Eddy sees a dog behind Junior.
+Is that a dog behind you?
+Yes. It's my friend. He's very intelligent.
+He is eating your sandwich and your salad?
+Yes. The dogs, it's easy, dad.
+We are eating a pizza.
+We want a taxi.
+We like the music and I like reading.
+The book and the books
+We want to read a book.
+I like chocolate and beer a alot.
+It's a problem.
+Sophie needs peace and quiet.
+We want to read a book. We need peace and quiet.
+I want to read a book. I'm going to school and I take a book. I like to read at school.
+We're French and we live in Paris.
+You going to the bank?
+We are at the bank.
+We're going to school.
+I'm getting the subway. See you soon.
+No one is going to the restaurant by subway.
+This is a bakery.
+Justin is going to the work by subway.
+I'm going to the bakery.
+I go to work by subway.
+You are going to the park?
+We're going to the movie.
+You like the cinema? You want to go to the cinema with me?
+You want a cat?
+You like chocolate?
+She's going to the work by bus. I'm going to the work by my car.
+You like school?
+I like reading and I have a book.
+We are here.
+on the street
+to make
+How are you?
+very well
+very happy
+very much in a hurry
+very late
+louder
+now
+at what time
+one 0’clock
+at one o'clock
+always
+always late
+once more, once again
+again
+on vacation
+near here
+still here
+your parents
+Are they on vacation?
+Are they here?
+Are they still here?
+Are they in a hurry?
+with them
+We are here in the street.
+To make it very well.
+I'm very happy now.
+I'm very much in hurry.
+It's very late.
+Speak louder please.
+Will you be there? At what time?
+It's one o'clock now.
+I always go late.
+Speak with me once again.
+I'm on vacation now.
+It's near here.
+I'm still here.
+Your parents are going to your apartment.
+I'm going to park with them.
+Well, there's Miss Courtois. Hello, Janine.
+Hello, Mrs. Durand. How are you?
+Fine, thanks. May I introduce Mr. Lelong to you.
+I'm happy to meet you, Miss Courtois.
+How do you do, Mr. Lelong.
+Do you have news from your brother?
+Yes, thank you. He is in Lyon now.
+Are your parents still on vacation?
+Yes and my sister is with them.
+Send them my best regards.
+I certainly will not to fail to.
+Excuse me, I'm in a hurry.
+Good-bye.
+Where are we going to have lunch?
+Do you want to go to the Café de Paris?
+Yes, it's a very good restaurant.
+And it's nearby.
+I have a professor.
+Marie is talking with her brother.
+You like your cat. You like the cat.
+They study French. They study in French.
+You want a croissant?
+His pet is dog. Her pet is cat.
+Paul and his sister. Marie and her brother.
+Yes I'm doing well thank you.
+The boys are speaking spanish.
+Louis and Marc's son's name is Paul
+The american students live at the university
+The cat is in the car.
+I take the bus.
+We are eating with Duo.
+My brother feels fine.
+My father feels fine.
+My son feels fine.
+My husband feels fine.
+My child feels fine.
+My friend feels fine.
+He feels fine.
+My sister feels fine.
+My mother feels fine.
+My daughter feels fine.
+My wife feels fine.
+My friend feels fine.
+She feels fine.
+Is she going to the cafe?
+Is she going to Paris?
+Is she going to the restaurant?
+Is she going to Lyon?
+Where are you going?
+Where are we going?
+Where is he going?
+Where is she going?
+When are you going to Paris?
+When are we going to Lyon?
+When are you going to the cafe?
+When are we going to the restaurant?
+Why is she going to Lyon?
+When is she going to Lyon?
+With whom is she going to Lyon?
+At what time is she going to Lyon?
+I know it's one O'clock.
+I know she's here.
+I know she's feeling fine.
+I know they're in a hurry.
+I know they're in a hurry.
+I hope it's here.
+I hope it's good.
+I hope you have some news.
+I hope we're going to lunch.
+I hope you're feeling fine.
+I am happy to meet you.
+He is happy to meet you.
+My brother is happy to meet you.
+My father is happy to meet you.
+They are happy to meet you.
+My brother and my sister are happy to meet you.
+My friend is happy to meet you.
+I am happy to meet you.
+I am happy to meet you.
+I am happy to speak French.
+I am happy to have lunch with you.
+I am happy to speak English.
+I am happy to pass on the news.
+I am happy to introduce my friend.
+I'm happy to have lunch at a restaurant.
+I am happy to meet you.
+I am happy to be in Paris.
+I'm happy to go to the cafe.
+I'm glad to be here.
+I am happy to listen to the news.
+I am happy to be with them.
+I am happy to go to Paris.
+I'm glad I'm late.
+I'm happy to listen to your friend.
+I'm happy to be near here.
+I'm happy to go to the restaurant.
+I'm happy to be at the cafe.
+I am happy to be in Paris.
+He is in Lyon.
+Your parents are in Lyon.
+They are in Lyon.
+Your sisters are in Lyon.
+They are in Lyon.
+My father is in Lyon.
+My sister is in Lyon.
+She is in Lyon.
+He is in Lyon.
+He's at the cafe.
+He is in Paris.
+He is late.
+He's on holiday.
+He's at the restaurant.
+He's at the cafe.
+He is in Lyon.
+Are they still on vacation?
+Is he still on vacation?
+Is she still on vacation?
+Do we still go on vacation?
+Are they still in Paris?
+Are they still in Lyon?
+Are they still at the cafe?
+Are they still at the restaurant?
+Are they still in class?
+Are they still on vacation?
+Are they always on time?
+Are they always late?
+Are they always in a hurry?
+Are they still happy?
+Are they always on time?
+Are they still together?
+Are they still near here?
+Are they always late?
+Where are we going to have lunch?
+Where is she going to lunch?
+Where is he going to lunch?
+Where are you going to have lunch?
+Where do you want to have lunch?
+He is in Lyon now.
+He's in a hurry now.
+He's late now.
+He is in Paris now.
+It's on time.
+He is happy now.
+This is Mademoiselle Courtois.
+This is the restaurant.
+Here's the coffee.
+This is Paris.
+This is your brother.
+Here is the book.
+There's the door.
+These are your parents.
+This is my sister.
+Here is my friend.
+Listen to the sentence.
+I don't know the sentence.
+Don't read the sentence.
+Tell me the sentence.
+I don't hear the sentence.
+Translate the sentence.
+Read the sentence.
+I do not understand the sentence.
+It's a good restaurant.
+It's a good book.
+It's a good coffee.
+It is a good memory.
+He's a good brother.
+He's a good Frenchman.
+Have you heard from your brother?
+Have you heard from your sister?
+Have you heard from your father?
+Have you heard from your friend?
+Have you heard from your wife?
+Have you heard from your mother?
+Have you heard from your daughter?
+Have you heard from your son?
+Have you heard from your husband?
+Allow me to introduce Mr. Lelong to you.
+Allow me to introduce you to Madame Durand.
+Allow me to introduce my son.
+Allow me to introduce you to Miss Courtois.
+Allow me to introduce my brother to you.
+Allow me to introduce my friend.
+Allow me to introduce my sister.
+I don't know where they are.
+I don't know where he's going.
+I don't know where you're going.
+I do not know where he is.
+I don't know where we are going.
+I don't know where they are.
+I don't know where she is.
+We are in a hurry.
+He's in a hurry.
+He is French.
+They are French.
+They are near here.
+She's near here.
+She's in a hurry.
+I am happy to be in Paris.
+I'm glad to be here.
+They are happy to be here.
+They are happy to be on vacation.
+He is happy to be on vacation.
+He is happy to be with them.
+We are happy to be with them.
+We are happy to be in Paris.
+Are they still on vacation?
+Are they still here?
+Is he still here?
+Is he still at the cafe?
+Is she still at the cafe?
+Is she still on vacation?
+When do you go to the cafe?
+When do you go to a restaurant?
+When do we go to the restaurant?
+Why do we go to restaurants?
+Why are we going to Paris?
+Why is he going to Paris?
+Who is he going to Paris with?
+Who does he go to coffee with?
+Who do you go to coffee with?
+Hello, my name is [Your Name].
+How are you?
+I am good.
+What is your name?
+Please, thank you, and sorry are polite words.
+I like [favorite food].
+I have [number] [color] [objects].
+This is a cat/dog.
+It is sunny today.
+I can see a tree.
+I want water.
+Where is the bathroom?
+I am happy.
+I am sad.
+The sky is blue.
+She is my friend.
+He is my brother.
+I live in [your city].
+What time is it?
+I can count to ten.
+I like to play [favorite game/sport].
+I go to school every day.
+Today is Monday/Tuesday/etc.
+My favorite color is [color].
+I can swim.
+Can you help me?
+I want to eat pizza.
+I see a car.
+I have a big/small family.
+This is my house.
+I like to read books.
+Do you have a pet?
+My favorite subject is [subject].
+I am learning English.
+It's raining outside.
+I can ride a bike.
+I have a red shirt.
+Where do you live?
+Can you speak slower?
+My birthday is in [month].
+The cat is on the table.
+I want to go to the park.
+What is your favorite animal?
+I am wearing shoes.
+It's cold in winter.
+I have two hands.
+The book is on the shelf.
+My favorite fruit is an apple.
+I can draw a picture.
+She is playing with a ball.
+This is my school bag.
+Can you pass me the salt, please?
+I like to watch cartoons.
+The bird is in the tree.
+We are going to the beach.
+I can sing a song.
+My favorite season is summer.
+The pencil is under the desk.
+They are eating lunch.
+I have a new toy.
+The sun is shining.
+I have a blue backpack.
+My favorite number is five.
+She can jump high.
+It's a beautiful day.
+We are going to the zoo.
+I like to play with my friends.
+He is wearing a hat.
+The cat is sleeping.
+I want to learn more.
+They are running in the park.
+I see a rainbow.
+The moon is in the sky.
+We are cooking dinner.
+I have a brown teddy bear.
+I can ride a bicycle.
+She has a green dress.
+He is brushing his teeth.
+The flowers are colorful.
+My favorite holiday is Christmas.
+They are playing with toys.
+It's a hot summer day.
+We are going to the movies.
+I like to eat ice cream.
+She has a big smile.
+The dog is barking.
+I need a pencil.
+We are listening to music.
+My family is going on vacation.
+He is reading a book.
+I can write my name.
+The car is red.
+She has a yellow backpack.
+We are watching TV.
+It's a rainy day.
+They are laughing.
+I like to play soccer.
+He is a good friend.
+The clock is ticking.
+We are eating dinner.
+She is singing a song.
+The baby is sleeping.
+I have a big family.
+They are swimming in the pool.
+He has a new bicycle.
+The sun rises in the east.
+We go to school in the morning.
+She can ride a horse.
+It's a windy day.
+They are playing in the park.
+My favorite color is purple.
+I like to watch cartoons on TV.
+He is wearing a blue hat.
+We eat breakfast every day.
+She has a small kitten.
+The bird is singing in the tree.
+I want to visit the zoo.
+They are planting flowers in the garden.
+He is drawing a picture.
+My birthday is in May.
+I can jump high.
+She has a big smile.
+It's a cold winter day.
+They are playing with a ball.
+I like to read books at night.
+He is eating an apple.
+We are going on a picnic.
+My favorite animal is a cat.
+She is wearing a pink dress.
+The moon is shining in the sky.
+I have a new toy car.
+They are dancing to music.
+He can swim in the pool.
+It's a sunny afternoon.
+We are going to the beach.
+I like to draw pictures.
+She has a cute puppy.
+It's a rainy morning.
+They are playing with their friends.
+I want to visit the museum.
+He is reading a storybook.
+We are having a picnic in the park.
+My favorite fruit is an orange.
+She is wearing a colorful hat.
+The stars are twinkling at night.
+I have a teddy bear collection.
+They are listening to a bedtime story.
+He can run very fast.
+It's a cloudy day.
+We are going to a birthday party.
+Hello!
+Hi there!
+How are you?
+I'm good.
+What's your name?
+My name is [Your Name].
+Nice to meet you.
+Where are you from?
+I'm from [Your Country].
+What do you like?
+I like [Favorite Thing].
+Do you like [Topic]?
+Yes, I do.
+No, I don't.
+Thank you!
+You're welcome.
+Excuse me.
+I'm sorry.
+How old are you?
+I am [Your Age] years old.
+Where do you live?
+I live in [Your City].
+What's this?
+This is a [Object].
+Can you help me?
+Sure, I can help.
+How's the weather?
+It's sunny/rainy/cloudy.
+What time is it?
+It's [Time].
+How's your day?
+It's a nice day, isn't it?
+What's your favorite color?
+I like blue.
+What's your favorite food?
+I love pizza.
+Where's the bathroom?
+Can you show me?
+How many siblings do you have?
+I have [Number] siblings.
+What's your job?
+I'm a student/teacher/nurse.
+Where do you work?
+I work at [Place].
+What did you do today?
+I went shopping/studied/worked.
+How do you get to work/school?
+I take the bus/walk/drive.
+Do you have any hobbies?
+Yes, I like [Hobby].
